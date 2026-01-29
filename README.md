@@ -13,3 +13,4 @@ A Handheld Fan designed for long and everlasting battery life, smooth airflow, a
 - 2x M2x8 screws rounded head
 - 2x M2x14 screws rounded head
 - 6x M2x5 screws rounded head
+- 1x RGB 3mm led
