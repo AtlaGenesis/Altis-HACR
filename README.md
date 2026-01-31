@@ -27,4 +27,4 @@ ASA or ABS or stronger.
 - 2x M2x8 screws rounded head
 - 2x M2x14 screws rounded head
 - 6x M2x5 screws rounded head
-- 4x M2x4x5 brass heat inserts
+- 8x M2x4x5 brass heat inserts
