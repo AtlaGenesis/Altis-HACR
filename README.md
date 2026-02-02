@@ -3,9 +3,9 @@ A Handheld Fan designed for long and everlasting battery life, smooth airflow, a
 
 # Elegant Design
 <img width="1600" height="1200" alt="Altis HACR" src="https://github.com/user-attachments/assets/d7c7cb26-626b-458b-a4ec-e1da114a59c8" />
-(rendered)
+(rendered in fusion)
 <img width="1184" height="864" alt="Gemini_Generated_Image_vhq5ehvhq5ehvhq5" src="https://github.com/user-attachments/assets/37d09320-3c3e-4f4d-ba4b-00f59b8a4924" />
-(AI-Generated, Don't use for ads)
+(this one is AI-Generated only for visual effects, Don't use for ads)
 
 # Usage instructions:
 1. Position the fan so that you see the side with the fan blade furthest away from you.
