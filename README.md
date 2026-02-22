@@ -27,10 +27,29 @@ A Handheld Fan designed for long and everlasting battery life, smooth airflow, a
 
 
 # 3D printing material:
-ASA or ABS or stronger.
-- Body (duct and handle): 0.1-0.2mm layer height, 0.4mm nozzle, 40% infill, WHITE.
-- Knob: 20% infill BLACK.
-- Fan Blade: 100% infill 0.1-0.15mm layer height, NEEDS HIGH PRECISION, QUALITY, AND STRENGHT (dw it's only 5cm cubic) BLACK.
+
+>ASA or stronger, Heated Bed, Enclosure, Low-Medium Fan Speed, Supports.
+1. Body (Duct, Handle)
+  - 50% Infill, Gyroid.
+  - 6 Walls or Perimeter
+  - White ASA
+  - 0.12mm - 0.2mm Layer height, 0.4mm Nozzle
+2. Fan Blade
+  - 100% Infill
+  - Walls or Perimeter set to MAX (MUST BE SOLID, 999 for most)
+  - 0.12mm Layer Height, 0.4mm nozzle
+  - Black ASA
+
+>PETG, normal printing, little to no supports.
+1. Fan Grill (PETG)
+  - 100% Infill
+  - Black PETG
+  - 0.2mm / 0.4mm Layer height, 0.4mm Nozzle
+  - 99 Walls or Perimeter
+2. Knob (can be TPU)
+  - 10% Infill
+  - Black
+  - 0.2mm-0.4mm Layer Height
 
 # Why I made it
 To be honest, it all started in 2025 of december when *I see these overpriced handheld fans on online shops, and wanted to compete with them*, then I bought a 15krpm rs280, and tested it with a toy fan blade, it was blowing my hair, so I thought: "why not make a cheaper one than theirs, but have better stuffs?"
