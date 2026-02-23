@@ -61,7 +61,12 @@ I don't know, but after thinking for a while, I think it has some properties I d
   The design is actually quite simple outside, but, it is not just a random duct, when you look closely into the cad, you'll see some hidden designs that you probably haven't seen before:
    <img width="945" height="442" alt="image" src="https://github.com/user-attachments/assets/9cf020a1-e6ac-4751-878f-1dee01ed3cbb" />
 
-On the right side of the image, you can see a slight bell mouth shape inside, it's there to increase the air intake capability and also reducing turbulence, because the air can flow along the surfaces of the duct (That's why 0.12mm layer height is important!!!). And on the left side it's got a slight converging shape, to increase air velocity, and diverging to increase air spread
+On the right side of the image, you can see a slight bell mouth shape inside, it's there to increase the air intake capability and also reducing turbulence, because the air can flow along the surfaces of the duct (That's why 0.12mm layer height is important!!!). And on the left side it's got a slight converging shape, to increase air velocity, and diverging to increase air spread, the small values of these shapes are choosen to maintain power efficiency and symmetry while also giving the effect it's intended to.
+
+<img width="411" height="490" alt="image" src="https://github.com/user-attachments/assets/16d7de3a-e1e3-4a7b-aa91-667bcb940cf4" />
+
+This picture shows the dimensions of the fan, these dimensions are calculated for maximum visual weight balance and comfort, 125mm long handle ensures it's not too long nor too short for your hand to grip, the fan diameter is chosen at 50mm for a balance of efficiency and portability, the 60mm duct diameter to 90mm centered duct lenght makes even better visual weight and symmetry, and the 2:1 handle to duct length and diameter also makes it perfectly balanced, for a very pleasing appearance.
+
 
   
 
