@@ -11,7 +11,7 @@ A Handheld Fan designed for long and everlasting battery life, smooth airflow, a
 1. Position the fan so that you see the side with the fan blade furthest away from you.
 2. Turn the knob all the way to the left
 3. Press the button for 1 second
-4. Slowly turn the knob to the right to adjust the wind speed
+4. Slowly turn the knob to the right to adjust the wind speed, Hold the fan at 20-30cm distance from your face, to ensure air spreads across your face for maximum cooling and comfort
 5. When you're done using, or that the device turned off, charge the device with a USB C cable, you can use your phone charger if it supports USB C
 6. When it is charging, the LED indicator will turn red, when the battery is full, it will turn blue and will automatically stop charging
 
@@ -54,6 +54,16 @@ A Handheld Fan designed for long and everlasting battery life, smooth airflow, a
 # Why I made it
 To be honest, it all started in 2025 of december when *I see these overpriced handheld fans on online shops, and wanted to compete with them*, then I bought a 15krpm rs280, and tested it with a toy fan blade, it was blowing my hair, so I thought: "why not make a cheaper one than theirs, but have better stuffs?"
 and then I go to Blender and made it, I wasted my time, I discovered that DC motors sucks at long term use, so i abandoned the project, then I have an idea to make it using a PC axial fan, I did make it with my own money, I got discounted, I used it to chill in class, then I wanted to make a cleaner version, using those 100krpm edf turbo jet fan or something, those are inrunners, and... I figured out those aren't the best, cuz I know that it's impractical to have like 15 mins of runtime on 2 batteries..., so I made this! I calculated the rpm, tip speed, diameter, pitch, trying out fusion, trying out "parametric fan blade generator", then I dumped the generator, so I modified a pc fan blade design, and fit it into the motor (according to the motor desc), I made all of the stuffs (duct, handle, stator blades, etc) all without a reference, only a glimpse of what I imagined it would be like, so now I'm here, I really hope this would be my milestone in engineering, since I started making electronics in late october 2025, and I just discovered Hack Club back in December from an Instagram reel. 
+
+# Special? 
+I don't know, but after thinking for a while, I think it has some properties I didn't even notice
+ 1. Design
+  The design is actually quite simple outside, but, it is not just a random duct, when you look closely into the cad, you'll see some hidden designs that you probably haven't seen before:
+   <img width="945" height="442" alt="image" src="https://github.com/user-attachments/assets/9cf020a1-e6ac-4751-878f-1dee01ed3cbb" />
+
+On the right side of the image, you can see a slight bell mouth shape inside, it's there to increase the air intake capability and also reducing turbulence, because the air can flow along the surfaces of the duct (That's why 0.12mm layer height is important!!!). And on the left side it's got a slight converging shape, to increase air velocity, and diverging to increase air spread
+
+  
 
 # BOM
 - 1x 1806 1700kv
