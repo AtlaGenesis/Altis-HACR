@@ -56,7 +56,7 @@ To be honest, it all started in 2025 of december when *I see these overpriced ha
 and then I go to Blender and made it, I wasted my time, I discovered that DC motors sucks at long term use, so i abandoned the project, then I have an idea to make it using a PC axial fan, I did make it with my own money, I got discounted, I used it to chill in class, then I wanted to make a cleaner version, using those 100krpm edf turbo jet fan or something, those are inrunners, and... I figured out those aren't the best, cuz I know that it's impractical to have like 15 mins of runtime on 2 batteries..., so I made this! I calculated the rpm, tip speed, diameter, pitch, trying out fusion, trying out "parametric fan blade generator", then I dumped the generator, so I modified a pc fan blade design, and fit it into the motor (according to the motor desc), I made all of the stuffs (duct, handle, stator blades, etc) all without a reference, only a glimpse of what I imagined it would be like, so now I'm here, I really hope this would be my milestone in engineering, since I started making electronics in late october 2025, and I just discovered Hack Club back in December from an Instagram reel. 
 
 # Special? 
-I don't know, but after thinking for a while, I think it has some properties I didn't even notice
+I don't know, but after thinking for a while, I think it has some properties that are worth mentioning.
  1. Design
   The design is actually quite simple outside, but, it is not just a random duct, when you look closely into the cad, you'll see some hidden designs that you probably haven't seen before:
    <img width="945" height="442" alt="image" src="https://github.com/user-attachments/assets/9cf020a1-e6ac-4751-878f-1dee01ed3cbb" />
