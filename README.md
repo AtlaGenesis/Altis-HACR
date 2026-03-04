@@ -28,7 +28,7 @@ A Handheld Fan designed for long and everlasting battery life, smooth airflow, a
 
 # 3D printing material:
 
->ASA or stronger, Heated Bed, Enclosure, Low-Medium Fan Speed, Supports.
+>ASA or stronger, Heated Bed, Enclosure, No Fan, Supports, Slow printing speed.
 1. Body (Duct, Handle)
   - 25% Infill, Gyroid.
   - 6 - 8 Walls or Perimeter
