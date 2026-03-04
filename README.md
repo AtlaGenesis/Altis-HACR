@@ -30,8 +30,8 @@ A Handheld Fan designed for long and everlasting battery life, smooth airflow, a
 
 >ASA or stronger, Heated Bed, Enclosure, Low-Medium Fan Speed, Supports.
 1. Body (Duct, Handle)
-  - 50% Infill, Gyroid.
-  - 6 Walls or Perimeter
+  - 25% Infill, Gyroid.
+  - 6 - 8 Walls or Perimeter
   - White ASA
   - 0.12mm - 0.2mm Layer height, 0.4mm Nozzle
 2. Fan Blade
